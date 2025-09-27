@@ -18,7 +18,21 @@ Questo repository contiene il framework teorico e computazionale completo per un
 - 🔬 Deviazioni timing GPS
 - 🔬 Ritardi temporali astrofisici (GRB/FRB)
 - 🔬 Processi rari di particelle
+## 📚 Publications and Papers
 
+### Ready for Journal Submission
+- **[English Article](papers/main-article-english.md)**: "A Six-Dimensional Gauge Theory with Testable Experimental Predictions"
+- **[Italian Article](papers/main-article-italiano.md)**: "Una Teoria Gauge a Sei Dimensioni con Predizioni Sperimentali Verificabili"
+
+### Scientific Figures
+- **[Interactive Visualizations](src/components/ScientificFigures.jsx)**: 6 professional figures for publication
+- **Export capabilities**: PNG/SVG/PDF formats for journals
+- **Publication-ready**: Formatted for Physical Review D, Il Nuovo Cimento C
+
+### Supporting Materials
+- Complete theoretical framework documentation
+- Numerical verification code
+- Experimental protocol implementations
 ## 📐 Background Teorico
 
 ### Struttura Metrica
