@@ -1,0 +1,24 @@
+{
+  "name": "6d-gauge-theory",
+  "version": "1.0.0",
+  "description": "Six-dimensional gauge theory with experimental predictions",
+  "main": "src/App.jsx",
+  "keywords": [
+    "theoretical-physics",
+    "gauge-theory",
+    "six-dimensions",
+    "quantum-field-theory",
+    "experimental-physics",
+    "precision-measurements"
+  ],
+  "author": "Giuseppe <giuseppe@email.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.263.1",
+    "mathjs": "^11.11.0",
+    "lodash": "^4.17.21"
+  }
+}
